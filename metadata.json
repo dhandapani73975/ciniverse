@@ -1,0 +1,6 @@
+{
+  "name": "CineVerse",
+  "description": "Discover, review, and rate movies on CineVerse with interactive movie details, ratings, user reviews, and trailers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
